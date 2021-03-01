@@ -1,0 +1,244 @@
+20:47:18 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+20:47:27 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+20:47:41 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageDude: Hello
+20:48:03 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageHaja: Hi
+20:48:30 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageDude: Hello Haja
+20:49:24 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:16:59 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:16:59 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:16:59 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageGET / HTTP/1.1
+21:16:59 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageHost: localhost:8080
+21:16:59 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageConnection: keep-alive
+21:16:59 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageUpgrade-Insecure-Requests: 1
+21:16:59 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36
+21:16:59 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+21:16:59 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Site: none
+21:16:59 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Mode: navigate
+21:16:59 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-User: ?1
+21:16:59 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Dest: document
+21:16:59 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept-Encoding: gzip, deflate, br
+21:16:59 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept-Language: en-US,en;q=0.9
+21:16:59 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: Messagesec-gpc: 1
+21:16:59 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: Message
+21:17:01 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:17:02 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageGET / HTTP/1.1
+21:17:02 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageHost: localhost:8080
+21:17:02 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageConnection: keep-alive
+21:17:02 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageCache-Control: max-age=0
+21:17:02 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageUpgrade-Insecure-Requests: 1
+21:17:02 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36
+21:17:02 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+21:17:02 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Site: none
+21:17:02 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Mode: navigate
+21:17:02 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-User: ?1
+21:17:02 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Dest: document
+21:17:02 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept-Encoding: gzip, deflate, br
+21:17:02 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept-Language: en-US,en;q=0.9
+21:17:02 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: Messagesec-gpc: 1
+21:17:02 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: Message
+21:17:07 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:17:07 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:17:07 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageGET / HTTP/1.1
+21:17:07 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageHost: localhost:8080
+21:17:07 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageConnection: keep-alive
+21:17:07 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageCache-Control: max-age=0
+21:17:07 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageUpgrade-Insecure-Requests: 1
+21:17:07 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36
+21:17:07 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+21:17:07 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Site: none
+21:17:07 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Mode: navigate
+21:17:07 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-User: ?1
+21:17:07 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Dest: document
+21:17:07 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept-Encoding: gzip, deflate, br
+21:17:07 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept-Language: en-US,en;q=0.9
+21:17:07 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: Messagesec-gpc: 1
+21:17:07 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: Message
+21:17:37 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:17:37 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:17:37 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageGET / HTTP/1.1
+21:17:37 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageHost: localhost:8080
+21:17:37 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageConnection: keep-alive
+21:17:37 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageCache-Control: max-age=0
+21:17:37 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageUpgrade-Insecure-Requests: 1
+21:17:37 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36
+21:17:37 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+21:17:37 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Site: none
+21:17:37 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Mode: navigate
+21:17:37 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-User: ?1
+21:17:37 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Dest: document
+21:17:37 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept-Encoding: gzip, deflate, br
+21:17:37 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept-Language: en-US,en;q=0.9
+21:17:37 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: Messagesec-gpc: 1
+21:17:37 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: Message
+21:17:47 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:17:47 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:17:47 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageGET / HTTP/1.1
+21:17:47 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageHost: localhost:8080
+21:17:47 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageConnection: keep-alive
+21:17:47 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageCache-Control: max-age=0
+21:17:47 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageUpgrade-Insecure-Requests: 1
+21:17:47 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36
+21:17:47 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+21:17:47 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Site: none
+21:17:47 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Mode: navigate
+21:17:47 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-User: ?1
+21:17:47 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Dest: document
+21:17:47 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept-Encoding: gzip, deflate, br
+21:17:47 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept-Language: en-US,en;q=0.9
+21:17:47 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: Messagesec-gpc: 1
+21:17:47 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: Message
+21:17:48 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:17:48 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageGET / HTTP/1.1
+21:17:48 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageHost: localhost:8080
+21:17:48 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageConnection: keep-alive
+21:17:48 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageCache-Control: max-age=0
+21:17:48 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageUpgrade-Insecure-Requests: 1
+21:17:48 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36
+21:17:48 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+21:17:48 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Site: none
+21:17:48 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Mode: navigate
+21:17:48 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-User: ?1
+21:17:48 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Dest: document
+21:17:48 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept-Encoding: gzip, deflate, br
+21:17:48 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept-Language: en-US,en;q=0.9
+21:17:48 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: Messagesec-gpc: 1
+21:17:48 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: Message
+21:17:53 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:17:53 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageGET / HTTP/1.1
+21:17:53 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageHost: localhost:8080
+21:17:53 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageConnection: keep-alive
+21:17:53 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageCache-Control: max-age=0
+21:17:53 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageUpgrade-Insecure-Requests: 1
+21:17:53 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36
+21:17:53 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+21:17:53 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Site: none
+21:17:53 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Mode: navigate
+21:17:53 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-User: ?1
+21:17:53 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Dest: document
+21:17:53 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept-Encoding: gzip, deflate, br
+21:17:53 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept-Language: en-US,en;q=0.9
+21:17:53 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: Messagesec-gpc: 1
+21:17:53 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: Message
+21:18:17 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:18:17 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:18:17 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageGET / HTTP/1.1
+21:18:17 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageHost: localhost:8080
+21:18:17 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageConnection: keep-alive
+21:18:17 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageCache-Control: max-age=0
+21:18:17 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageUpgrade-Insecure-Requests: 1
+21:18:17 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36
+21:18:17 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+21:18:17 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Site: none
+21:18:17 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Mode: navigate
+21:18:17 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-User: ?1
+21:18:17 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Dest: document
+21:18:17 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept-Encoding: gzip, deflate, br
+21:18:17 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept-Language: en-US,en;q=0.9
+21:18:17 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: Messagesec-gpc: 1
+21:18:17 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: Message
+21:18:18 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:18:18 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageGET / HTTP/1.1
+21:18:18 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageHost: localhost:8080
+21:18:18 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageConnection: keep-alive
+21:18:18 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageCache-Control: max-age=0
+21:18:18 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageUpgrade-Insecure-Requests: 1
+21:18:18 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36
+21:18:18 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+21:18:18 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Site: none
+21:18:18 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Mode: navigate
+21:18:18 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-User: ?1
+21:18:18 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Dest: document
+21:18:18 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept-Encoding: gzip, deflate, br
+21:18:18 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept-Language: en-US,en;q=0.9
+21:18:18 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: Messagesec-gpc: 1
+21:18:18 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: Message
+21:18:23 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:18:23 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageGET / HTTP/1.1
+21:18:23 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageHost: localhost:8080
+21:18:23 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageConnection: keep-alive
+21:18:23 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageCache-Control: max-age=0
+21:18:23 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageUpgrade-Insecure-Requests: 1
+21:18:23 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36
+21:18:23 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+21:18:23 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Site: none
+21:18:23 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Mode: navigate
+21:18:23 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-User: ?1
+21:18:23 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Dest: document
+21:18:23 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept-Encoding: gzip, deflate, br
+21:18:23 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept-Language: en-US,en;q=0.9
+21:18:23 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: Messagesec-gpc: 1
+21:18:23 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: Message
+21:18:48 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:18:48 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:18:48 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageGET / HTTP/1.1
+21:18:48 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageHost: localhost:8080
+21:18:48 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageConnection: keep-alive
+21:18:48 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageCache-Control: max-age=0
+21:18:48 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageUpgrade-Insecure-Requests: 1
+21:18:48 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36
+21:18:48 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+21:18:48 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Site: none
+21:18:48 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Mode: navigate
+21:18:48 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-User: ?1
+21:18:48 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Dest: document
+21:18:48 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept-Encoding: gzip, deflate, br
+21:18:48 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept-Language: en-US,en;q=0.9
+21:18:48 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: Messagesec-gpc: 1
+21:18:48 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: Message
+21:18:49 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:18:49 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageGET / HTTP/1.1
+21:18:49 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageHost: localhost:8080
+21:18:49 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageConnection: keep-alive
+21:18:49 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageCache-Control: max-age=0
+21:18:49 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageUpgrade-Insecure-Requests: 1
+21:18:49 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36
+21:18:49 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+21:18:49 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Site: none
+21:18:49 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Mode: navigate
+21:18:49 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-User: ?1
+21:18:49 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Dest: document
+21:18:49 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept-Encoding: gzip, deflate, br
+21:18:49 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept-Language: en-US,en;q=0.9
+21:18:49 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: Messagesec-gpc: 1
+21:18:49 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: Message
+21:18:54 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:18:54 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageGET / HTTP/1.1
+21:18:54 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageHost: localhost:8080
+21:18:54 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageConnection: keep-alive
+21:18:54 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageCache-Control: max-age=0
+21:18:54 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageUpgrade-Insecure-Requests: 1
+21:18:54 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36
+21:18:54 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+21:18:54 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Site: none
+21:18:54 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Mode: navigate
+21:18:54 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-User: ?1
+21:18:54 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageSec-Fetch-Dest: document
+21:18:54 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept-Encoding: gzip, deflate, br
+21:18:54 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: MessageAccept-Language: en-US,en;q=0.9
+21:18:54 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: Messagesec-gpc: 1
+21:18:54 C:/Users/asmat/gotutorial/src/HydraChat/hydraClient.go:24: Hydra: Message
+21:18:58 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:19:05 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:19:16 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:19:42 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:19:49 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:20:19 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:20:33 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:21:04 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:21:10 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:21:40 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:22:18 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:22:55 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:23:04 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:23:10 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:23:41 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:24:41 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:26:31 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:26:37 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:27:07 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:27:21 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:27:55 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:29:00 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:48:35 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:58:02 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room
+21:58:05 C:/Users/asmat/gotutorial/src/HydraChat/hydrachatstarter.go:41: Hydra: Adding Client to room

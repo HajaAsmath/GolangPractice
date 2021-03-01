@@ -1,0 +1,13 @@
+ <Ship>
+ 	<Ship>
+ 		<ShipId>123</ShipId>
+ 		<ShipClass>AAA</ShipClass>
+ 	</Ship>
+ 	<Captain name="Haja" clearace="3311">
+ 		<id>11</id>
+ 		<codes>
+ 			<code>ALD</code>
+ 			<code>ALL</code>
+ 		</codes>
+ 	</Captain>
+ </Ship>
